@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Life": {
+      "commandName": "Project",
+      "commandLineArgs": "--seed V1glider.seed --dimensions 8 8 --output output.seed --max-update 10 --generations 25",
+      "workingDirectory": "A:\\Documents\\Uni\\Sem2_2020\\CAB201 Programming Principles\\Assessment2_Life\\Seeds"
+    }
+  }
+}
